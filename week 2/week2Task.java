@@ -167,7 +167,7 @@ public class week2Task {
 
 
 
-        /* Write a program to calculate the total marks of four subjects of a student and the total percentage secured.
+        /* Qno.10 Write a program to calculate the total marks of four subjects of a student and the total percentage secured.
            And use the following conditions to generate the final result;
            a. If equal to or more than 70 -> First Class
            b. If more than 59 -> Upper Second Class
