@@ -169,7 +169,7 @@ public class Week3task {
 
         switch (choose) {
             case 1:
-                System.out.println("Enter redius of circle:");
+                System.out.println("Enter radius of circle:");
                 double r = info.nextDouble();
                 double A1 = Math.PI * r * r;
                 System.out.println("The area of circle is" +A1);
