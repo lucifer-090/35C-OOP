@@ -1,3 +1,24 @@
+// Homework
+
+// Make a class Spreadsheet
+// Make a function addRow that takes one int -> print( int row added)
+// Make a function addColumn that takes one int -> print( int coloumn added)
+// Make a subclass from Spreadsheet, MsExcel
+// override both the function and print different output
+// make attribute fileType as String
+// Make an object of Spreadsheet
+// Make an Object of Spreadsheet as MsExcel
+// run both function from each object
+
+// Task
+// Make a function substraction
+// take two int and return int
+// take three double and return double
+// take 1 double and print invalid operation
+// take 1 int and print invalid operation
+// take 2 int and double and return double
+// call these function from MathOperation object
+
 public class polymorphismTask{
     public static void main(String[] args) {
         Spreadsheet spreadsheet = new Spreadsheet();
